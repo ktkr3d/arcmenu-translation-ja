@@ -9,5 +9,6 @@ Japanese Translation of ArcMenu
 # Install
 
 ```
+$ mkdir -p ~/.local/share/gnome-shell/extensions/arcmenu@arcmenu.com/locale/ja/LC_MESSAGES/
 $ cp ./po/ja.mo ~/.local/share/gnome-shell/extensions/arcmenu@arcmenu.com/locale/ja/LC_MESSAGES/arcmenu.mo
 ```
